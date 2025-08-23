@@ -1,3 +1,4 @@
+// src/routes/login/+server.js
 import { json } from '@sveltejs/kit';
 import PocketBase from 'pocketbase';
 import { PUBLIC_POCKETBASE_URL } from '$env/static/public';
